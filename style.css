@@ -1,7 +1,17 @@
 .choiceBtn{
+    margin-top: 100px;
+    padding-top: 5px;
     line-height: 30px;
-    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+    width: 180px;
+    margin-right: 5px; 
+    font-size: 20px; 
+    font-weight: 600;
+
 }
+
+
 
 *{
     margin: 0;
@@ -14,14 +24,17 @@
 #gameDiv{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 3px solid;
+    background-image: linear-gradient(rgba(238, 240, 250, 0),rgba(39, 41, 48, 0.916)),url("u13.jpg");
+    background-size: cover; 
+    background-position: center;
     border-radius: 25px;
     /* padding: 10px; */
     background-color: lightgrey;
     text-align: center;
-    height: 700px;
-    width: 600px;
+    height:500px;
+    width: 700px;
     padding-top: 9%;
-    margin-left: 40%;
+    margin-left: 35%;
     margin-top: 9.5%;
     padding-bottom: 0;
 }
@@ -30,8 +43,11 @@
     padding-bottom: 40px;
 }
 #playerText{
-    color: blue;
+    color: rgba(255, 255, 255, 0.957);
 }
 #computerText{
-    color: red;
+    color: rgb(255, 255, 255, 0.957);
 }
+
+  
+  
