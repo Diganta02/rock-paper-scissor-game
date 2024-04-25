@@ -24,7 +24,7 @@
 #gameDiv{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 3px solid;
-    background-image: linear-gradient(rgba(238, 240, 250, 0),rgba(39, 41, 48, 0.916)),url("u13.jpg");
+    background-image: linear-gradient(rgba(238, 240, 250, 0),rgba(39, 41, 48, 0.516)),url("u13.jpg");
     background-size: cover; 
     background-position: center;
     border-radius: 25px;
