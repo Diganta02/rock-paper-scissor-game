@@ -1,3 +1,31 @@
+.choiceBtn{
+    background-color: #D3D9D4;
+    border: none;
+    color: rgb(0, 0, 0);
+    margin-top: 100px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    height: 45px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    width: 144px;
+    margin-right: 16px; 
+    margin-left: 16px; 
+    font-size: 20px; 
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.6s ease;
+
+}
+
+
+.choiceBtn:hover {
+    background-color: #5e75a0f5; /* Darker green on hover */
+    color: #ffffff;
+}
+
+
 
 *{
     margin: 0;
@@ -17,7 +45,7 @@
     /* padding: 10px; */
     background-color: lightgrey;
     text-align: center;
-    height:550px;
+    height:540px;
     width: 700px;
     padding-top: 9%;
     margin-left: 35%;
@@ -35,17 +63,33 @@
     color: rgb(255, 255, 255, 0.957);
 }
 
-.choiceBtn{
-    margin-top: 100px;
-    padding-top: 4px;
-    line-height: 30px;
+
+
+/* -------------------footer-------------------------------- */
+
+
+.footer{
+    margin-left: 22%;
+}
+.container{
+    display: flex;
     text-align: center;
-    border-radius: 20px;
-    width: 180px;
-    margin-right: 5px; 
-    font-size: 20px; 
-    font-weight: 600;
+    
+    width: 70%;
+    margin-top:160px;
+    justify-content: space-between;
+}
+.container p{
+    color: #ffffff;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-  
+.container a{
+    color: #819fa5;
+} 
+
+span{
+    color: #819fa5;
+}
   
