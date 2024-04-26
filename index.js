@@ -12,9 +12,11 @@ choiceBtns.forEach(button => button.addEventListener("click", () => {
     computerTurn();
     playerText.textContent = `Player: ${player}`;
     computerText.textContent = `Computer: ${computer}`;
-    result = checkWinner(); // Store the result first
+    result = checkWinner();
     resultText.textContent = result;
     resultText.style.color = "yellow";
+    playerText.style.color = "white";
+
 }));
 
 function computerTurn(){
