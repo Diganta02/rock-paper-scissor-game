@@ -4,6 +4,6 @@ the game will be playing between one player & the computer, so one choose for pl
 by the picks result will be displayed.. whether win, lose or draw..
 
 <b>game designs: </b>
-<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/result1.png">
+<img align="left" alt="coding" width="750" padding-top="50px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/result1.png">
 
 
