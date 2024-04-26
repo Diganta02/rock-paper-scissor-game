@@ -12,4 +12,4 @@ by the picks result will be displayed.. whether win, lose or draw..
 
 <b>before selection </b><br>
 
-<img align="left" alt="coding" width="500" padding-top="100px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/result1.png">
+<img align="left" alt="coding" width="400" padding-top="100px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/result1.png">
