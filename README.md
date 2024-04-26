@@ -8,6 +8,9 @@ by the picks result will be displayed.. whether win, lose or draw..
 <img align="left" alt="coding" width="750" padding-top="50px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/result1.png">
 
 
+
+
+
 <b>game layout designs: after selection </b>
 
 <img align="left" alt="coding" width="750" padding-top="50px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/result2.png">
