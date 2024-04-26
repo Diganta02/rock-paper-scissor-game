@@ -33,7 +33,7 @@
 }
 
 #body{
-    background-color: black;
+    background-color: rgb(255, 0, 0);
 }
 #gameDiv{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -64,7 +64,6 @@
 }
 
 
-
 /* -------------------footer-------------------------------- */
 
 
@@ -90,6 +89,5 @@
 } 
 
 span{
-    color: #819fa5;
+    color: #819fa5;
 }
-  
