@@ -15,8 +15,8 @@ HTML
 CSS
 JavaScript
 
-<b>Usage</b>
-To play the game locally, follow these steps:
+<b>Usage
+To play the game locally, follow these steps:</b>
 
 Clone this repository to your local machine.<br>
 Open the index.html file in your web browser.<br>
