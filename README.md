@@ -18,11 +18,11 @@ JavaScript
 Usage
 To play the game locally, follow these steps:
 
-Clone this repository to your local machine.
-Open the index.html file in your web browser.
-Choose your move by clicking on the corresponding button.
-See the outcome of the game and your current score.
-To reset the game, click on the "Reset" button.
+Clone this repository to your local machine.<br>
+Open the index.html file in your web browser.<br>
+Choose your move by clicking on the corresponding button.<br>
+See the outcome of the game and your current score.<br>
+To reset the game, click on the "Reset" button.<br>
 
 <b>game layout designs: after selection </b>
 
