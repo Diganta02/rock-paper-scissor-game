@@ -15,7 +15,7 @@ HTML
 CSS
 JavaScript
 
-Usage
+<b>Usage</b>
 To play the game locally, follow these steps:
 
 Clone this repository to your local machine.<br>
