@@ -35,8 +35,8 @@ To reset the game, click on the "Reset" button.<br>
 
 <img align="left" alt="coding" width="380" padding-top="100px" src="https://github.com/Diganta02/rock-paper-scissor-game/blob/main/before.png">
 
-
-Contributing
+<br>
+<b margin-top="80px">Contributing</b>
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 
